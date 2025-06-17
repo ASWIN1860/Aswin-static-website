@@ -23,3 +23,5 @@ function sendMail(){
     .catch((err) =>console.log(err));
     console.log("sending email with:",params);
 }
+
+console.log()
